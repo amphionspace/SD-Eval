@@ -1,7 +1,7 @@
 # SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words
 
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SD--Eval-blue)](https://huggingface.co/amphion/SD-Eval)
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.13340-b31b1b.svg)](https://arxiv.org/abs/2406.13340)
 
 SD-Eval is a benchmark dataset aimed at multidimensional evaluation of spoken dialogue understanding and generation.
 SD-Eval focuses on paralinguistic and environmental information and includes 7,303 utterances, amounting to 8.76 hours of speech data.
@@ -105,7 +105,14 @@ python3 llm_eval.py \
 
 ## Citation
 ```
-To be added
+@article{ao2024sdeval,
+  title   = {SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words},
+  author  = {Junyi Ao and Yuancheng Wang and Xiaohai Tian and Dekun Chen and Jun Zhang and Lu Lu and Yuxuan Wang and Haizhou Li and Zhizheng Wu},
+  eprint={2406.13340},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  year={2024}
+}
 ```
 
 ## License
