@@ -1,6 +1,6 @@
 # SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words
 
-[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SD--Eval-blue)](https://huggingface.co/amphion/SD-Eval)
+[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SD--Eval-blue)](https://huggingface.co/datasets/amphion/SD-Eval)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.13340-b31b1b.svg)](https://arxiv.org/abs/2406.13340)
 
 SD-Eval is a benchmark dataset aimed at multidimensional evaluation of spoken dialogue understanding and generation.
